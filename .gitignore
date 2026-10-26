@@ -1,0 +1,30 @@
+# IDEA
+.idea/
+*.iml
+out/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Hugging Face / Model cache
+.cache/
+models/
+
+# Chroma vector DB
+chroma_db/
+
+# Gradio / log
+logs/
+*.log
+
+# Env
+.env
+venv/
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
